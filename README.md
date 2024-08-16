@@ -9,7 +9,14 @@ UMARV Computer Vision Team for development and reseearch of applying vision tran
      c. So many others
 3. Fine-Tune 
 
-
+1. First item
+    a. Sub-item
+    b. Sub-item
+    c. Sub-item
+2. Second item
+    a. Sub-item
+    b. Sub-item
+    c. Sub-item
 
 
 # Things to Consider
