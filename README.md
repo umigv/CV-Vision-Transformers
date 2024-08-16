@@ -10,13 +10,18 @@ UMARV Computer Vision Team for development and reseearch of applying vision tran
 3. Fine-Tune 
 
 1. First item
-    a. Sub-item
-    b. Sub-item
-    c. Sub-item
+   <ol type="a">
+     <li>Sub-item</li>
+     <li>Sub-item</li>
+     <li>Sub-item</li>
+   </ol>
 2. Second item
-    a. Sub-item
-    b. Sub-item
-    c. Sub-item
+   <ol type="a">
+     <li>Sub-item</li>
+     <li>Sub-item</li>
+     <li>Sub-item</li>
+   </ol>
+
 
 
 # Things to Consider
