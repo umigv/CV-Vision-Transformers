@@ -4,7 +4,11 @@ UMARV Computer Vision Team for development and reseearch of applying vision tran
 Prerequisites:
 - Completed Onboarding project
 - Understanding of what ViTs are: Understanding [this](https://www.youtube.com/watch?v=NetSJM590Lo) video should be good enough. This is an important step and will make this project so much easier to understand and work through
-- PyTorch experience will help with most of this project. Some parts it is not necessary like part 3 below so if you want you may start there and begin to learn PyTorch in parallel
+- (Optional) PyTorch experience will help with most of this project. Some parts it is not necessary like part 3 below so if you want you may start there and begin to learn PyTorch in parallel
+
+Rules:
+- There is a linked project under the project tabs that is to be used to document tasks. Please mark tasks accuractely based on their actual status to avoid confusion and allow for effecient asynchronous work. Thank you
+- Meet the Prerequisites before beggining work on the project
 
 
 # Places to Start
