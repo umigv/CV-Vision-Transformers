@@ -4,10 +4,10 @@ UMARV Computer Vision Team for development and reseearch of applying vision tran
 
 # Places to Start
 1. Start from scratch and develop architecture in PyTorch/TensorFlow. This can  (Advanced)
-   a. TransUNet
-   b. SETR (SEgmentation TRansformer)
-   c. So many others
-2. Fine-Tune 
+     a. TransUNet
+     b. SETR (SEgmentation TRansformer)
+     c. So many others
+3. Fine-Tune 
 
 
 
