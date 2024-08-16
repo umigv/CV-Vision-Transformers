@@ -11,13 +11,13 @@ Prerequisites:
 1. Start from scratch and copy, adjust or develop architecture in PyTorch/TensorFlow (Advanced)
    <ol type="a">
      <li>The traditional ones: MaskFormer, SegFormer, and SAM</li>
-     <li>TransUNet</li>
-     <li>SETR (SEgmentation TRansformer)</li>
-     <li>So many others</li>
+     <li>[TransUNet](https://github.com/Beckschen/TransUNet)</li>
+     <li>[SETR (SEgmentation TRansformer)](https://github.com/fudan-zvg/SETR)</li>
+     <li>So many others are available and not just githubs either. If you are looking for a larger challenge and interested in diving into the architecture specifics, each of these models generally has a paper and a github that implements it. So although I have linked the githubs that apply the architectures already, you are free to read the paper and try it yourself!</li>
    </ol>
 2. Fine-Tune an existing model given our lack of data
    <ol type="a">
-     <li>[EffecientViT](https://github.com/mit-han-lab/efficientvit): Should definitley try this one extensively</li>
+     <li>[EffecientViT](https://github.com/mit-han-lab/efficientvit): Should definitley try this one extensively becasue it is already benchmarked on our exact hardware</li>
      <li>[SegViT](https://github.com/zbwxp/SegVit)</li>
      <li>Many others as well</li>
    </ol>
